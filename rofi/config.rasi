@@ -1,0 +1,4 @@
+configuration {
+    theme: "~/.config/rofi/themes/center.rasi";
+    font: "Ubuntu 8.5";
+}

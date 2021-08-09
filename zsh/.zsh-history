@@ -1,0 +1,1001 @@
+tmux
+xx
+xx
+cd src
+ls
+v App.svelte
+xx
+v src/components/sidebar/sidebar.css
+xx
+npm run dev
+xx
+ls
+cd src/components/sidebar
+ls
+touch sidebar.css
+ls
+mv sidebarController.jsxx sidebarController.js
+...
+..
+cd public
+ls
+mkdir styles
+mv global.css styles
+cd styles
+touch component.css
+...
+cd public
+v index.html
+..
+v rollup.config.js
+ls
+mkdir src/components/main
+cd src/components/main
+touch mainCpm.scss mainComponent.svelte mainController.js
+ls
+mv mainComponent.svelte MainComponent.svelte
+ls
+pwd
+xx
+cd Projects/ikenga/electron/ikenga
+ls
+tmux
+xx;
+xx
+xx
+cd src
+ls
+v App.svelte
+v App.svelte
+xx
+npm run dev
+npm run dev
+npm run dev
+npm i -D sass
+npm i -D sass
+npm run dev
+npm run dev
+xx
+v src/components/main/mainCpm.scss
+xx
+v rollup.config.js
+htop
+ls
+ls
+cd src/components/sidebar
+ls
+mv sidebar.css sidebar.scss
+..
+ls
+cd main
+mv mainCpm.scss mainCmp.scss
+ls
+xx
+cd Projects/ikenga/electron/ikenga
+ls
+tmux
+xx
+sudo apt install rofi
+rofi
+conf
+ls
+mkdir rofi
+cd rofi
+v config.rasi
+mkdir themes
+cd themes
+v center.rasi
+xx
+exit
+ls
+proj
+cd ikenga/electron/ikenga
+ls
+tmux
+aliases
+vimplug
+aliases
+xx
+vimplug
+vimplug
+vimplug
+aliases
+alias
+aliases
+xx
+vimkeys
+vimrc
+vimkeys
+xx
+vifm
+xx
+vifm
+\:q
+xx
+vifm
+xx
+vimf
+vifm
+xx
+vifm
+xx
+vifm
+xx
+vifm
+xx
+vifm
+xx
+vimkeys
+vimplug
+vimkeys
+trials
+..
+cd ikenga/electron/ikenga
+v src/App.svelte
+v
+v src/App.svelte
+v src/App.svelte
+conf
+cd vifm
+v vifmrc
+..
+ls
+cd zsh
+v prompt.sh
+ls
+less zsh-prompt
+vifm
+xx
+cd ~/.config/nvim/
+ls
+v plugins.vim
+v plugins.vim
+cd -
+v ~/.config/zsh/aliases
+aliases
+v src/components/main/mainCmp.scss
+cd src
+v App.svelte
+v App.svelte
+conf
+cd vifm/
+v icons
+xx
+ls
+vimkeys
+vimkeys
+cd src
+v App.svelte
+v App.svelte
+ls
+cd Projects
+ls
+cd  ikenga/electron/ikenga
+ls
+tmux
+xx
+ls
+v public/index.html
+ls
+wtf
+htop
+vimkeys
+v package.json
+v index.js
+cd src
+v App.svelte
+fg
+npm run dev
+npm i notifier
+npm run dev
+npm uninstall notifier
+npm uninstall node-notifier
+npm i node-notifier
+npm run dev
+npm i cron
+npm run dev
+cd Projects/ikenga/electron/ikenga
+ls
+tmux
+trials
+cd memento-master
+npm i
+xx
+brave
+brave-browser
+brave-browser --incognito
+rofi
+xx
+xx
+brave
+brave-browser
+brave-browser --incognito
+cd .config
+ls
+cd awesome
+ls
+v rc.lua
+aliases
+zz
+xx
+awrc
+xx
+cd Projects/ikenga/electron/ikenga
+ls
+cd src
+ls
+..
+ls
+ls
+ls
+cd src
+ls
+v App.svelte
+v App.svelte
+v main.ts
+ls
+v stores/store.js
+cd components
+ls
+v main/mainController.js
+v main/MainComponent.svelte
+...
+v index.js
+ls
+v package.json
+npm run dev
+v src/components/main/MainComponent.svelte
+v src/components/main/mainController.js
+v src/components/main/mainController.js
+npm run dev
+v src/components/main/mainController.js
+v src/components/main/MainComponent.svelte
+npm run dev
+xx
+trials
+cd memento-master
+cd s
+cd src
+ls
+v a
+v App.svelte
+ls
+v main.js
+v store.js
+cd components
+ls
+cd main/
+..
+v main/mainController.js
+v main/mainComponent.svelte
+..
+ls
+..
+ls
+v index.js
+ls
+v package.json
+xx
+polybar foobar
+xx
+sudo apt install polybar
+plybar
+polybar
+conf
+cd polybar
+ls
+v config
+\:q
+xx
+xx
+ls
+cd src
+ls
+v App.svelte
+v App.svelte
+v App.svelte
+xx
+critty
+ls
+v alacritty.yml
+cd -
+zshrc
+cd ~/.config/zsh
+ls
+cd -
+ls
+cd src-tauri
+ls
+cd src
+ls
+v commands.rs
+yarn dev
+yarn tauri dev
+xx
+trials
+LA
+ls
+cd tauri
+ls
+cd rusvelt
+ls
+tmux
+xx
+htop
+x
+xx
+xx
+xx
+..
+ls
+npm run dev
+ls
+npm run dev
+tmux
+trials
+ls
+cd tauri
+ls
+...
+ls
+cd ikenga
+ls
+mkdir tauri
+cd tauri
+sudo apt update 
+sudo apt install libwebkit2gtk-4.0-dev
+sudo apt install build-essential
+sudo apt install curl wget libssl-dev libgtk-3-dev squashfs-tools
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
+npx degit sveltejs/template ikenga
+node scripts/setupTypeScript.js
+node scripts/setupTypeScript.js
+ls
+cd
+cd -
+cd ikenga
+node scripts/setupTypeScript.js
+yarn i
+yarn dev
+ls
+yarn install
+yarn add
+yarn dev
+yarn add -D @tauri-apps/cli
+tauri info
+yarn tauri info
+yarn tauri dev
+v package.json
+ls
+yarn tauri init
+yarn tauri dev
+cd Projects/ikenga/tauri/ikenga
+yarn dev
+....
+cd trials/tauri
+ls
+cd rusvelt
+ls
+cd src-tauri
+ls
+v Cargo.toml
+less tauri.conf.json
+...
+...
+cd ikenga/tauri/ikenga
+ls
+v package.json
+trials
+ls
+pacman
+thunar
+cd Projects/ikenga/ikenga-frontend/ikenga-tauri
+ls
+...
+ls
+cd -
+npm run dev
+npm tauri dev
+npm run tauri dev
+npm run dev
+cd public
+ls
+v index.html
+ls
+yarn tauri dev
+yarn tauri dev
+ls
+cd src
+ls
+yarn dev
+cd Projects/ikenga/ikenga-frontend/ikenga-tauri
+npm run dev
+tmux
+...
+cd tauri
+ls
+cd ikenga
+ls
+tmux
+xx
+htop
+xx
+thunar
+xrandr
+ls
+..
+cd
+cd Projects/ikenga
+ls
+mkdir rust
+cd rust
+ls
+ls
+sqlite2
+sqlite3
+cd conf
+conf
+ls
+cd p
+cd polybar
+ls
+less launch.sh
+v config
+xx
+apt search network-manager-applet
+apt search nm-applet
+nm-applet
+htop
+conf
+cd polybar
+ls
+..
+cd awesome
+ls
+v rc.lua
+apt search kmix
+sudo apt install kmix
+ls
+v rc.lua
+xx
+xx
+ls
+proj
+cd ikenga/rust
+ls
+sqlite3
+apt search sqlite3
+sqlite
+sudo apt install sqlite3
+sqlite2
+sqlite3
+v db.sql
+thunar .
+v database.sql
+cp database.sql create.sql
+v create.sql
+mkdir orig
+mkdir -p sql/orig
+rm -r orig
+ls
+mv calendar.sql sql
+mv create.sql sql
+mv database.sql sql/orig
+ls
+cd sql
+ls
+cd orig
+ls
+..
+ls
+sudo apt install zsh-syntax-highlighting
+xx
+zshrc
+xx
+zshrc
+conf
+cd zsh
+ls
+cd /usr/share/zsh/
+ls -a
+cd -
+ls
+v functions.sh
+sudo apt remove zsh-syntax-highlighting
+v functions.sh
+xx
+xx
+zshrc
+conf
+cd zsh
+ls
+v functions.sh
+ls
+cd plugins
+ls
+xx
+conf
+cd zsh
+ls
+v functions.sh
+xx
+cd .config/zsh
+v functions.sh
+\:q
+xx
+sudo dpkg -i lsd_0.20.1_amd64.deb
+cd Software
+sudo dpkg -i lsd_0.20.1_amd64.deb
+lsd
+xx
+ls
+ls
+aliases
+ls
+xx
+ls
+ls -l
+trials
+../enkidu
+ls
+ls
+cd electron
+ls
+..
+..
+cd ikenga/rust/sql
+ls
+ls
+ls -l
+aliases
+ls -t
+lsd --help
+ls --tree
+aliases
+..
+lst
+xx
+lst
+ls
+proj
+cd ikenga
+lst
+ls
+cd rust
+lst
+ls --help
+aliases
+fg
+lst
+..
+ls
+cd electron/ikenga
+ls
+lst
+xx
+cd Projects/ikenga/electron
+lst
+aliases
+lst
+xx
+proj
+cd ikenga
+cd electron
+ls
+cd ikenga
+lst
+xx
+v
+ls
+cd Projects/ikenga/rust/sql
+ls
+v calendar.sql
+v create.sql
+ls
+xx
+l
+ls
+ls
+xx
+cd Projects/ikenga/rust/trial
+lst
+aliases
+xx
+cd Projects/ikenga/rust/trial
+lst
+lst
+aliases
+xx
+cd Projects/ikenga/rust/trial
+lst
+thunar .
+aliases
+xx
+cd Projects/ikenga/rust/trial
+lst
+aliases
+fg
+xx
+cd Projects/ikenga/rust/trial
+lst
+ls
+aliases
+xx
+ls
+ls
+lt
+lst
+aliases
+lst
+aliases
+lst
+ls
+ls
+v Cargo.toml
+v Cargo.toml
+v Cargo.toml
+v Cargo.toml
+ls
+cargo run
+pwd
+pwd
+cargo run
+cargo run
+v Cargo.toml
+cargo build
+cargo run
+cargo run
+cargo run
+cargo add rusqlite
+cargo run
+cargo run --verbose
+..
+ls
+cd trial
+ls
+cd src
+ls
+mv schema.sql ../..
+...
+ls
+rm -rf trial
+cargo new hello
+cd hello
+ls
+cargo run
+ls
+cd src
+ls
+v main.rs
+cd Projects/ikenga/rust/sql
+ls
+..
+cargo new test
+cargo new trial
+ls
+cd trial
+v create.sql
+ls
+ls
+ls
+mv create.sql src/schema.sql
+cd src
+ls
+ls ..
+proj ikenga
+proj /ikenga
+ls
+v main.rs
+..
+tmux
+xx
+ls
+cd hello
+ls
+cd src
+xx
+xx
+xx
+xx
+sudo apt update
+apt list --upgradable
+sudo apt install cmake
+sudo apt install cmake
+xx
+v Cargo.toml
+xx
+cd src
+v main.rs
+v main.rs
+xx
+cargo run
+cargo run --verbose
+sudo apt install gcc-arm-linux-gnueabihf
+cargo run
+apt search rustup
+sudo apt install build-essential
+sudo apt upgrade
+xx
+cd Projects/ikenga/rust
+ls
+tmux
+cd hello
+ls
+tmux
+xx
+cd Projects/ikenga/rust/hello
+ls
+cargo run
+xx
+xx
+cd Projects/ikenga/rust/hello
+ls
+cargo run
+sudo apt install rustup
+sudo apt install rustup
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+xx
+cd Projects/ikenga/rust/hello
+thunar .
+xx
+cargo run
+xx
+xx
+cargo run
+rustc src/main.rs
+cargo add rusqlite
+sudo cargo install cargo-edit
+cargo install cargo-edit
+cargo add rusqlite
+rustc src/main.rs
+xx
+xx
+cd Projects/ikenga/rust/hello
+ls
+cargo run
+\:q
+...
+ls
+trials
+ls
+cd rust
+ls
+cd rusqlite
+ls
+v src/main.rs
+cargo run
+..
+cd server
+ls
+../rusqlite
+..
+cd rusqlite
+ls
+ls
+v src/main.rs
+xx
+sqlite --version
+sqlite3 --version
+q
+xx
+xx
+cd
+cd Projects/ikenga/rust/s
+cd Projects/ikenga/rust/sql
+ls
+cargo run
+..
+cd hello
+cargo run
+cargo run --verbose
+sudo apt remove gcc
+sudo apt remove cmake
+sudo apt remove build-essential
+sudo apt remove gcc
+xx
+sudo apt install build-essential
+sudo apt install cmake gcc
+ls
+cd Templates
+ls
+..
+cd Projects/ikenga/rust/hello
+ls
+cargo run
+gcc --version
+sudo apt install lib32z1-dev
+cargo run
+gcc -o version version.c -lsqlite3 -std=c99
+sudo apt install glibc-static
+which lsqlite3
+where lsqlite3
+ lsqlite3
+locate sqlite3.so
+export LDFLAGS="/usr/lib/x86_64-linux-gnu/:$LDFLAGS"
+cargo run
+v Cargo.toml
+cargo run
+v Cargo.toml
+v Cargo.toml
+v Cargo.toml
+cargo run
+xx
+cd src
+xx
+ cd src
+ls
+v main.rs
+xx
+cargo build
+cargo run
+xx
+ls
+v .fehbg
+ls
+ls
+ls
+ls
+cd Projects/ikenga/rust/hello
+ls
+ls
+tmux
+tmux
+xx
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cd src
+ls
+v main.rs
+trials
+cd rust/kvstore
+lst
+lsd
+lst
+xx
+ls
+trials
+cd rust/kvstore
+ls
+lst
+ls -l
+xx
+cd src
+v main.rs
+xx
+cargo run
+cargo run hello woels
+cargo run hello world
+cargo run hallo welt
+cat db.txt
+cargo run hallo welt
+cargo run Yolo Wall
+cargo run Yolo Wall
+cargo run Yolo Wall
+cargo run Yolo Wall
+cargo run Yolo Wall
+cargo run Yolo Wall
+xx
+ls
+lst
+lst
+aliases
+ ls
+tree
+lst
+ls
+ls
+v db.txt
+less db.txt
+cat db.txt
+cat db.txt
+rm db.txt
+ls
+rm db.txt
+ls
+cat db.txt
+rm db.txt
+ls
+ls
+xx
+trials
+ls
+cd rust
+ls
+cd basics
+tmux
+..
+cargo new kvstore
+cd kvstore
+tree
+lst
+tmux
+xx
+cd exercises/
+ls
+cd variables
+ls
+less README.md
+v variablesi
+v variables1.rs
+v variables2.rs
+..
+cd functions
+v functions1.rs
+..
+ls
+v q1
+v quiz1.rs
+cd  collections
+ls
+v v1
+v vec1.rs
+xx
+rustlings hint vec2
+xx
+rustlings watch
+xx
+trials
+cd rust
+mkdir rustlings
+..
+curl -L https://git.io/install-rustlings | bash -s ~/Projects/trials/rust/rustlings\
+
+ls
+..
+ls
+cd trials
+cd rust
+ls
+cd rustlings
+ls
+tmux
+xx
+x
+xx
+cd exercises
+ls
+cd move_semantics
+ls
+v move_semantics1.rs
+xx
+rustlings watch
+xx
+trials
+cd rust/rustlings
+ls
+tmux
+xx
+cd exercises
+ls
+cd move_semantics
+ls
+v move_semantics2.rs
+xx
+rustlings hint move_semantics2
+xx
+rustlings watch
+xx
+ls
+trials
+cd rust/rustlings
+tmux
+xx
+cd exercises
+ls
+cd move_semantics
+v move_semantics3.rs
+xx
+rustlings watch
+xx
+rustlings hint move_semantics3
+xx
+trials
+cd rust/rustlings
+tmux
+xx
+sudo apt search balena
+sudo apt search etcher
+xx

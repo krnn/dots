@@ -1,0 +1,68 @@
+* {
+    background-color: #0f111b;
+    color: #c1c3cc;
+}
+
+#window {
+    background-color: #0f111bf0;
+    padding: 2px;
+}
+
+#listview {
+    background-color: #0f111b00;
+}
+
+#main-box {
+    background-color: #0f111b00;
+}
+
+#element {
+    background-color: #0f111bf0;
+    padding: 0 10px;
+}
+
+#element.selected.normal {
+    background-color: #1b1c36;
+    color: #ecf0c1;
+}
+
+#element.selected.alternate {
+    background-color: #0f111b50;
+}
+
+#message {
+    background-color: #0f111b50;
+}
+
+#inputbar {
+    border-color: #00a3cc;
+    border: 1px;
+    background-color: #0f111b00;
+}
+
+#case-indicator{
+    background-color: #0f111b50;
+}
+
+#entry {
+    background-color: #0f111b;
+    color: #00a3cc;
+}
+
+#prompt {
+    background-color: #f2ce00;
+    color: #0f111b;
+    padding: 0 5px;
+}
+
+#scrollbar {
+    background-color: #0f111b50;
+}
+
+#sidebar {
+    background-color: #0f111b50;
+}
+
+#button.selected {
+    background-color: #0f111b50;
+}

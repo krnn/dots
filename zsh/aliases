@@ -1,0 +1,28 @@
+# Shortcuts
+alias ls="lsd -hA --group-dirs first"
+alias lst="lsd -hA --group-dirs first --tree --ignore-glob node_modules --ignore-glob .git --ignore-glob rls --ignore-glob 'target/**'"
+alias xx="exit"
+
+# settings files/dirs
+alias zshrc="v ~/.config/zsh/.zshrc"
+alias aliases="v ~/.config/zsh/aliases"
+alias critty="cd ~/.config/alacritty/"
+alias vimrc="v ~/.config/nvim/general/settings.vim"
+alias vimplug="v ~/.config/nvim/plugins.vim"
+alias vimkeys="v ~/.config/nvim/general/keymaps.vim"
+alias awrc="v ~/.config/awesome/rc.lua"
+
+# Common Directories
+alias docs="cd ~/Documents/"
+alias dls="cd ~/Downloads/"
+alias vids="cd ~/Videos/"
+alias pics="cd ~/Pictures/"
+alias music="cd ~/Music/"
+alias conf="cd ~/.config/"
+alias proj="cd ~/Projects/"
+alias trials="cd ~/Projects/trials/"
+alias ..="cd .."
+alias ...="cd ../../"
+alias ....="cd ../../../"
+
+

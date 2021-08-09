@@ -1,0 +1,553 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/k/
+	..
+1627649376
+'b
+	/home/k/bin/
+	..
+1627649376
+'h
+	/home/k/
+	..
+1627649376
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/k/Projects
+	ikenga
+5
+d/home/k/Projects/ikenga
+	electron
+3
+d/home/k/Projects/ikenga/electron
+	ikenga
+1
+d/home/k/Projects/ikenga/electron/ikenga
+	public
+3
+d/home/k/Projects/ikenga/electron/ikenga/public
+	styles
+2
+d/home/k/Projects/ikenga/electron/ikenga/public/styles
+	..
+0
+d/home/k/Projects/ikenga/electron/ikenga/public
+	build
+1
+d/home/k/Projects/ikenga/electron/ikenga/public/build
+	..
+0
+d/home/k/Projects/ikenga/electron/ikenga/public
+	build
+1
+d/home/k/Projects/ikenga/electron/ikenga
+	src
+4
+d/home/k/Projects/ikenga/electron/ikenga/src
+	stores
+2
+d/home/k/Projects/ikenga/electron/ikenga/src/stores
+	..
+0
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components/main
+	..
+0
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga
+	..
+0
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	sidebar
+2
+d/home/k/Projects/ikenga/electron/ikenga/src/components/sidebar
+	sidebar.scss
+2
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components/main
+	..
+0
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	sidebar
+2
+d/home/k/Projects/ikenga/electron/ikenga/src/components/sidebar
+	sidebar.scss
+2
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components/main
+	MainComponent.svelte
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga
+	src
+4
+d/home/k/Projects/ikenga/electron
+	ikenga
+1
+d/home/k/Projects/ikenga
+	electron
+3
+d/home/k/Projects
+	ikenga
+5
+d/home/k
+	.config
+5
+d/home/k/.config
+	nvim
+14
+d/home/k/.config/nvim
+	init.vim
+5
+d/home/k/.config
+	vifm
+26
+d/home/k/.config/vifm
+	vifmrc
+5
+d/home/k/Projects/ikenga/electron/ikenga/src
+	main.ts
+5
+d/home/k/Projects/ikenga/electron/ikenga
+	.vscode
+1
+d/home/k/Projects/ikenga/electron/ikenga/.vscode
+	extensions.json
+1
+d/home/k/Projects/ikenga/electron/ikenga
+	node_modules
+1
+d/home/k/Projects/ikenga/electron
+	ikenga
+1
+d/home/k/Projects/ikenga
+	electron
+3
+d/home/k/Projects/ikenga/electron
+	ikenga
+1
+d/home/k/Projects/ikenga/electron/ikenga
+	src
+3
+d/home/k/Projects/ikenga/electron/ikenga/src
+	main.ts
+5
+d/home/k/Projects/ikenga/electron/ikenga
+	src
+3
+d/home/k/Projects/ikenga/electron
+	ikenga
+1
+d/home/k/Projects/ikenga
+	electron
+3
+d/home/k/Projects/ikenga/electron
+	ikenga
+1
+d/home/k/Projects/ikenga
+	electron
+3
+d/home/k/Projects/ikenga/electron
+	ikenga
+1
+d/home/k/Projects/ikenga/electron/ikenga
+	public
+2
+d/home/k/Projects/ikenga/electron
+	ikenga
+1
+d/home/k/Projects/ikenga
+	electron
+3
+d/home/k/Projects
+	ikenga
+5
+d/home/k
+	.bashrc
+25
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	sidebar
+2
+d/home/k/Projects/ikenga/electron/ikenga/src/components/sidebar
+	SidebarComponent.svelte
+1
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components/main
+	mainCmp.scss
+2
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	sidebar
+2
+d/home/k/Projects/ikenga/electron/ikenga/src/components/sidebar
+	SidebarComponent.svelte
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components/main
+	MainComponent.svelte
+1
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components/main
+	MainComponent.svelte
+1
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	main
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components/main
+	mainController.js
+3
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components
+	sidebar
+2
+d/home/k/Projects/ikenga/electron/ikenga/src/components/sidebar
+	sidebarController.js
+3
+d/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+d/home/k/Projects/ikenga/electron/ikenga/src/components/main
+	mainCmp.scss
+2
+d/home/k/Projects/ikenga/electron/ikenga
+	renderer.js
+9
+d/home/k/Projects/trials/tauri/rusvelt/src-tauri/src
+	main.rs
+2
+d/home/k/Projects/trials/tauri/rusvelt/src-tauri
+	Cargo.toml
+6
+d/home/k/Projects/trials/tauri/rusvelt/src
+	..
+0
+d/home/k/Projects/trials/tauri/rusvelt
+	src-tauri
+4
+d/home/k/Projects/trials/tauri/rusvelt/src-tauri
+	src
+2
+d/home/k/Projects/trials/tauri/rusvelt/src-tauri/src
+	commands.rs
+1
+d/home/k/.config/polybar
+	launch.sh
+2
+d/home/k/Projects/trials/rust/rustlings/exercises/variables
+	variables5.rs
+6
+d/home/k/Projects/trials/rust/rustlings/exercises/functions
+	functions5.rs
+6
+d/home/k/Projects/trials/rust/rustlings/exercises
+	if
+8
+d/home/k/Projects/trials/rust/rustlings/exercises/if
+	if1.rs
+2
+d/home/k/Projects/trials/rust/rustlings/exercises/functions
+	functions5.rs
+6
+d/home/k/Projects/trials/rust/rustlings/exercises
+	if
+8
+d/home/k/Projects/trials/rust/rustlings/exercises/if
+	if2.rs
+3
+d/home/k/Projects/trials/rust/rustlings/exercises/collections
+	hashmap1.rs
+2
+d/home/k/Projects/trials/rust/rustlings/exercises/move_semantics
+	move_semantics4.rs
+5
+d/home/k/Projects/trials/rust/rustlings/exercises
+	collections
+2
+d/home/k/Projects/trials/rust/rustlings/exercises/collections
+	hashmap1.rs
+2
+d/home/k/Projects/trials/rust/rustlings/exercises/move_semantics
+	move_semantics5.rs
+6
+d
+
+# Right window history (oldest to newest):
+D/home/k/Projects/trials/electron-quick-start
+	main.js
+4
+D/home/k/Projects/trials
+	electron-quick-start
+2
+D/home/k/Projects/trials/electron-quick-start
+	..
+0
+D/home/k/Projects/trials
+	electron
+1
+D/home/k/Projects/trials/electron
+	rusvelt
+1
+D/home/k/Projects/trials/electron/rusvelt
+	src
+3
+D/home/k/Projects/trials/electron/rusvelt/src
+	..
+0
+D/home/k/Projects/trials/electron/rusvelt
+	src
+3
+D/home/k/Projects/trials/electron
+	rusvelt
+1
+D/home/k/Projects/trials/electron/rusvelt
+	src
+3
+D/home/k/Projects/trials/electron/rusvelt/src
+	App.svelte
+1
+D/home/k/Projects/trials/electron/rusvelt
+	public
+2
+D/home/k/Projects/trials/electron/rusvelt/public
+	favicon.png
+1
+D/home/k/Projects/trials/electron/rusvelt
+	src
+3
+D/home/k/Projects/trials/electron
+	rusvelt
+1
+D/home/k/Projects/trials
+	electron
+1
+D/home/k/Projects/trials/electron
+	rusvelt
+1
+D/home/k/Projects/trials/electron/rusvelt
+	src
+3
+D/home/k/Projects/trials/electron
+	rusvelt
+1
+D/home/k/Projects/trials/electron/rusvelt
+	src
+3
+D/home/k/Projects/trials/electron/rusvelt/src
+	main.rs
+3
+D/home/k/Projects/trials/electron/rusvelt
+	target
+4
+D/home/k/Projects/trials/electron/rusvelt/target
+	..
+0
+D/home/k/Projects/trials/electron/rusvelt
+	public
+2
+D/home/k/Projects/trials/electron/rusvelt/public
+	favicon.png
+2
+D/home/k/Projects/trials/electron/rusvelt
+	public
+2
+D/home/k/Projects/trials/electron/rusvelt/public
+	favicon.png
+2
+D/home/k/Projects/trials/electron/rusvelt
+	src
+4
+D/home/k/Projects/trials/electron/rusvelt/src
+	App.svelte
+1
+D/home/k/Projects/trials/electron/rusvelt
+	src
+4
+D/home/k/Projects/trials/electron
+	rusvelt
+1
+D/home/k/Projects/trials
+	electron
+1
+D/home/k/Projects/trials/electron
+	rusvelt
+1
+D/home/k/Projects/trials/electron/rusvelt
+	src
+4
+D/home/k/Projects/trials/electron/rusvelt/src
+	App.svelte
+1
+D/home/k/Projects/trials/electron/rusvelt
+	renderer
+3
+D/home/k/Projects/trials/electron/rusvelt/renderer
+	..
+0
+D/home/k/Projects/trials/electron/rusvelt
+	node_modules
+1
+D/home/k/Projects/trials/electron/rusvelt/node_modules
+	..
+0
+D/home/k/Projects/trials/electron/rusvelt
+	public
+2
+D/home/k/Projects/trials/electron/rusvelt/public
+	favicon.png
+2
+D/home/k/Projects/trials/electron/rusvelt
+	..
+0
+D/home/k/Projects/trials/electron
+	..
+0
+D/home/k/Projects/trials
+	tauri
+4
+D/home/k/Projects/trials/tauri
+	rusvelt
+1
+D/home/k/Projects/trials/tauri/rusvelt
+	public
+2
+D/home/k/Projects/trials/tauri
+	rusvelt
+1
+D/home/k/Projects/trials/tauri/rusvelt
+	src
+3
+D/home/k/Projects/trials/tauri/rusvelt/src
+	App.svelte
+1
+D/home/k/Projects/trials/tauri/rusvelt
+	src-tauri
+4
+D/home/k/Projects/trials/tauri
+	rusvelt
+2
+D/home/k/Projects/trials
+	tauri
+4
+D/home/k/Projects
+	ikenga
+5
+D/home/k/Projects/ikenga
+	electron
+3
+D/home/k/Projects/ikenga/electron
+	ikenga
+1
+D/home/k/Projects/ikenga/electron/ikenga
+	src
+3
+D/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+D/home/k/Projects/ikenga/electron/ikenga/src/components
+	sidebar
+2
+D/home/k/Projects/ikenga/electron/ikenga/src/components/sidebar
+	..
+0
+D/home/k/Projects/ikenga/electron/ikenga/src/components
+	sidebar
+2
+D/home/k/Projects/ikenga/electron/ikenga/src
+	components
+1
+D/home/k/Projects/ikenga/electron/ikenga
+	node_modules
+1
+D
+
+# Command line history (oldest to newest):
+:!mkdir test
+:!rm -r test/
+:mkdir renderer
+:!touch main.css
+:w
+:q
+:!touch renderer.js
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/k/.local/share/vifm/Trash/000_.vscode
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/k/.local/share/vifm/Trash/000_.vscode
+	/home/k/Projects/ikenga/electron/ikenga/.vscode
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0
